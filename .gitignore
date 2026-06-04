@@ -1,0 +1,14 @@
+venv/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+food.db
+
+.env
+
+.vscode/
+.idea/
+
+*.log
